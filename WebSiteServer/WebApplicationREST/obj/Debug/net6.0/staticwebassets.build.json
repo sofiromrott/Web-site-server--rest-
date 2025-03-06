@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "evk67Iy2XGuHgdaGB55ioE76yeFftfofRNyqUWIOkuQ=",
+  "Source": "WebApplicationREST",
+  "BasePath": "_content/WebApplicationREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

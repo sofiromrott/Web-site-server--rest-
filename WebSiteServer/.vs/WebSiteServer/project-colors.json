@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b539532b-b91d-4bec-9689-2b0723085758": {
+      "ProjectGuid": "b539532b-b91d-4bec-9689-2b0723085758",
+      "DisplayName": "WebSiteServer",
+      "ColorIndex": 0
+    },
+    "ca1541c4-f885-4d8e-a242-7bc726899efc": {
+      "ProjectGuid": "ca1541c4-f885-4d8e-a242-7bc726899efc",
+      "DisplayName": "WebApplicationREST",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
